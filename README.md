@@ -22,8 +22,8 @@ Tahapan dari proyek ini memiliki lima tahapan diantaranya:
 5. Kesimpulan
 
 Dataset yang digunakan pada proyek diantaranya:
-/datasets/megaline_calls.csv Unduh dataset
-/datasets/megaline_internet.csv Unduh dataset
-/datasets/megaline_messages.csv Unduh dataset
-/datasets/megaline_plans.csv Unduh dataset
-/datasets/megaline_users.csv Unduh dataset
+1. `/datasets/megaline_calls.csv`
+2. `/datasets/megaline_internet.csv`
+3.`/datasets/megaline_messages.csv`
+4. `/datasets/megaline_plans.csv`
+5. `/datasets/megaline_users.csv`

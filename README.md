@@ -24,6 +24,6 @@ Tahapan dari proyek ini memiliki lima tahapan diantaranya:
 Dataset yang digunakan pada proyek diantaranya:
 1. `/datasets/megaline_calls.csv`
 2. `/datasets/megaline_internet.csv`
-3.`/datasets/megaline_messages.csv`
+3. `/datasets/megaline_messages.csv`
 4. `/datasets/megaline_plans.csv`
 5. `/datasets/megaline_users.csv`
